@@ -1,0 +1,13 @@
+C:\Users\Barbi\source\repos\homeWork_3\7_1_1\bin\Debug\netcoreapp3.1\7_1_1.exe
+C:\Users\Barbi\source\repos\homeWork_3\7_1_1\bin\Debug\netcoreapp3.1\7_1_1.deps.json
+C:\Users\Barbi\source\repos\homeWork_3\7_1_1\bin\Debug\netcoreapp3.1\7_1_1.runtimeconfig.json
+C:\Users\Barbi\source\repos\homeWork_3\7_1_1\bin\Debug\netcoreapp3.1\7_1_1.runtimeconfig.dev.json
+C:\Users\Barbi\source\repos\homeWork_3\7_1_1\bin\Debug\netcoreapp3.1\7_1_1.dll
+C:\Users\Barbi\source\repos\homeWork_3\7_1_1\bin\Debug\netcoreapp3.1\7_1_1.pdb
+C:\Users\Barbi\source\repos\homeWork_3\7_1_1\obj\Debug\netcoreapp3.1\7_1_1.csprojAssemblyReference.cache
+C:\Users\Barbi\source\repos\homeWork_3\7_1_1\obj\Debug\netcoreapp3.1\7_1_1.csproj.CoreCompileInputs.cache
+C:\Users\Barbi\source\repos\homeWork_3\7_1_1\obj\Debug\netcoreapp3.1\7_1_1.AssemblyInfoInputs.cache
+C:\Users\Barbi\source\repos\homeWork_3\7_1_1\obj\Debug\netcoreapp3.1\7_1_1.AssemblyInfo.cs
+C:\Users\Barbi\source\repos\homeWork_3\7_1_1\obj\Debug\netcoreapp3.1\7_1_1.dll
+C:\Users\Barbi\source\repos\homeWork_3\7_1_1\obj\Debug\netcoreapp3.1\7_1_1.pdb
+C:\Users\Barbi\source\repos\homeWork_3\7_1_1\obj\Debug\netcoreapp3.1\7_1_1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Barbi\source\repos\homeWork_3\7_1_2\bin\Debug\netcoreapp3.1\7_1_2.exe
+C:\Users\Barbi\source\repos\homeWork_3\7_1_2\bin\Debug\netcoreapp3.1\7_1_2.deps.json
+C:\Users\Barbi\source\repos\homeWork_3\7_1_2\bin\Debug\netcoreapp3.1\7_1_2.runtimeconfig.json
+C:\Users\Barbi\source\repos\homeWork_3\7_1_2\bin\Debug\netcoreapp3.1\7_1_2.runtimeconfig.dev.json
+C:\Users\Barbi\source\repos\homeWork_3\7_1_2\bin\Debug\netcoreapp3.1\7_1_2.dll
+C:\Users\Barbi\source\repos\homeWork_3\7_1_2\bin\Debug\netcoreapp3.1\7_1_2.pdb
+C:\Users\Barbi\source\repos\homeWork_3\7_1_2\obj\Debug\netcoreapp3.1\7_1_2.csprojAssemblyReference.cache
+C:\Users\Barbi\source\repos\homeWork_3\7_1_2\obj\Debug\netcoreapp3.1\7_1_2.csproj.CoreCompileInputs.cache
+C:\Users\Barbi\source\repos\homeWork_3\7_1_2\obj\Debug\netcoreapp3.1\7_1_2.AssemblyInfoInputs.cache
+C:\Users\Barbi\source\repos\homeWork_3\7_1_2\obj\Debug\netcoreapp3.1\7_1_2.AssemblyInfo.cs
+C:\Users\Barbi\source\repos\homeWork_3\7_1_2\obj\Debug\netcoreapp3.1\7_1_2.dll
+C:\Users\Barbi\source\repos\homeWork_3\7_1_2\obj\Debug\netcoreapp3.1\7_1_2.pdb
+C:\Users\Barbi\source\repos\homeWork_3\7_1_2\obj\Debug\netcoreapp3.1\7_1_2.genruntimeconfig.cache
